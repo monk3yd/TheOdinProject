@@ -1,0 +1,18 @@
+[submodule "odin-recipes"]
+	path = odin-recipes
+	url = https://github.com/monk3yd/odin-recipes.git
+[submodule "odin-landing-page"]
+	path = odin-landing-page
+	url = https://github.com/monk3yd/odin-landing-page.git
+[submodule "odin-rock-paper-scissors"]
+	path = odin-rock-paper-scissors
+	url = https://github.com/monk3yd/odin-rock-paper-scissors.git
+[submodule "odin-etch-a-sketch"]
+	path = odin-etch-a-sketch
+	url = https://github.com/monk3yd/odin-etch-a-sketch.git
+[submodule "odin-calculator"]
+	path = odin-calculator
+	url = https://github.com/monk3yd/odin-calculator.git
+[submodule "odin-library"]
+	path = odin-library
+	url = https://github.com/monk3yd/odin-library.git
